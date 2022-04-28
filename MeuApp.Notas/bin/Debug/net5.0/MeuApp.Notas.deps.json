@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MeuApp.Notas/1.0.0": {
+        "runtime": {
+          "MeuApp.Notas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MeuApp.Notas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

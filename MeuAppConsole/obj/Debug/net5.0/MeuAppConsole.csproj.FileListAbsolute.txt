@@ -1,0 +1,16 @@
+C:\Visual Studio\MeuAppConsole\bin\Debug\net5.0\MeuAppConsole.exe
+C:\Visual Studio\MeuAppConsole\bin\Debug\net5.0\MeuAppConsole.deps.json
+C:\Visual Studio\MeuAppConsole\bin\Debug\net5.0\MeuAppConsole.runtimeconfig.json
+C:\Visual Studio\MeuAppConsole\bin\Debug\net5.0\MeuAppConsole.runtimeconfig.dev.json
+C:\Visual Studio\MeuAppConsole\bin\Debug\net5.0\MeuAppConsole.dll
+C:\Visual Studio\MeuAppConsole\bin\Debug\net5.0\MeuAppConsole.pdb
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\MeuAppConsole.csproj.AssemblyReference.cache
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\MeuAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\MeuAppConsole.AssemblyInfoInputs.cache
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\MeuAppConsole.AssemblyInfo.cs
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\MeuAppConsole.csproj.CoreCompileInputs.cache
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\MeuAppConsole.dll
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\refint\MeuAppConsole.dll
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\MeuAppConsole.pdb
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\MeuAppConsole.genruntimeconfig.cache
+C:\Visual Studio\MeuAppConsole\obj\Debug\net5.0\ref\MeuAppConsole.dll

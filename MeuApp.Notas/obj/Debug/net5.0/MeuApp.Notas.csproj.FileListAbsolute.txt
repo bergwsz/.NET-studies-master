@@ -1,0 +1,16 @@
+C:\Visual Studio\MeuApp.Notas\bin\Debug\net5.0\MeuApp.Notas.exe
+C:\Visual Studio\MeuApp.Notas\bin\Debug\net5.0\MeuApp.Notas.deps.json
+C:\Visual Studio\MeuApp.Notas\bin\Debug\net5.0\MeuApp.Notas.runtimeconfig.json
+C:\Visual Studio\MeuApp.Notas\bin\Debug\net5.0\MeuApp.Notas.runtimeconfig.dev.json
+C:\Visual Studio\MeuApp.Notas\bin\Debug\net5.0\MeuApp.Notas.dll
+C:\Visual Studio\MeuApp.Notas\bin\Debug\net5.0\MeuApp.Notas.pdb
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\MeuApp.Notas.csproj.AssemblyReference.cache
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\MeuApp.Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\MeuApp.Notas.AssemblyInfoInputs.cache
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\MeuApp.Notas.AssemblyInfo.cs
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\MeuApp.Notas.csproj.CoreCompileInputs.cache
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\MeuApp.Notas.dll
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\refint\MeuApp.Notas.dll
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\MeuApp.Notas.pdb
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\MeuApp.Notas.genruntimeconfig.cache
+C:\Visual Studio\MeuApp.Notas\obj\Debug\net5.0\ref\MeuApp.Notas.dll
