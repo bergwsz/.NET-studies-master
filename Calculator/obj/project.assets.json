@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\.NET-studies-master\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Visual Studio\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\.NET-studies-master\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio\\Calculator\\obj\\",
+      "outputPath": "C:\\.NET-studies-master\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",

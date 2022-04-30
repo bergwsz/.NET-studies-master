@@ -68,9 +68,12 @@ namespace OOP.FirstExercises
 
             Console.WriteLine("Input the second triangle especifications: ");
 
-            Y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Y.A = double
+                .Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Y.B = double
+                .Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Y.C = double
+                .Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 
             double area_x = X.Area();

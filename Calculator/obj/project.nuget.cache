@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TDeW2a4cwinbQG5qNtq7ACdrDHDq3qFWY8aq9fc6SMDxso9wSRc6yA9BPc45DZ5Xp2lkCmd4w2cH55Q5dNT5fA==",
+  "dgSpecHash": "+ks0V28Xu5yYZ6eXAvF6euLHqxHgikBCblJLPVUWZphpkGssF4IpP4T51IcCMnfEOzffC773al3rRgkMYhjBkQ==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\.NET-studies-master\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

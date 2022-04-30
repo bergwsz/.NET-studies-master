@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio\\OOP.FirstExercises\\OOP.FirstExercises.csproj": {}
+    "C:\\.NET-studies-master\\OOP.FirstExercises\\OOP.FirstExercises.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio\\OOP.FirstExercises\\OOP.FirstExercises.csproj": {
+    "C:\\.NET-studies-master\\OOP.FirstExercises\\OOP.FirstExercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio\\OOP.FirstExercises\\OOP.FirstExercises.csproj",
+        "projectUniqueName": "C:\\.NET-studies-master\\OOP.FirstExercises\\OOP.FirstExercises.csproj",
         "projectName": "OOP.FirstExercises",
-        "projectPath": "C:\\Visual Studio\\OOP.FirstExercises\\OOP.FirstExercises.csproj",
+        "projectPath": "C:\\.NET-studies-master\\OOP.FirstExercises\\OOP.FirstExercises.csproj",
         "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio\\OOP.FirstExercises\\obj\\",
+        "outputPath": "C:\\.NET-studies-master\\OOP.FirstExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",

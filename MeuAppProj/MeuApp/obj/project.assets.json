@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Visual Studio\\MeuAppProj\\MeuApp\\MeuApp.csproj",
+      "projectUniqueName": "C:\\.NET-studies-master\\MeuAppProj\\MeuApp\\MeuApp.csproj",
       "projectName": "MeuApp",
-      "projectPath": "C:\\Visual Studio\\MeuAppProj\\MeuApp\\MeuApp.csproj",
+      "projectPath": "C:\\.NET-studies-master\\MeuAppProj\\MeuApp\\MeuApp.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Visual Studio\\MeuAppProj\\MeuApp\\obj\\",
+      "outputPath": "C:\\.NET-studies-master\\MeuAppProj\\MeuApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
