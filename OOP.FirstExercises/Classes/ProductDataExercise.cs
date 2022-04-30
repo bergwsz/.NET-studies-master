@@ -25,14 +25,16 @@ namespace OOP.FirstExercises.Classes
         public int AddProduct(int quantity)
         {
             Console.WriteLine("How much do you want to add?");
-            int quantityAdded = int.Parse(Console.ReadLine());
+            int quantityAdded = int
+                .Parse(Console.ReadLine());
             return quantity + quantityAdded;
 
         }
         public int RemoveProduct(int quantity)
         {
             Console.WriteLine("How much do you want to remove?");
-            int quantityRemoved = int.Parse(Console.ReadLine());
+            int quantityRemoved = int
+                .Parse(Console.ReadLine());
             return quantity - quantityRemoved;
         }
         public bool Leave()
