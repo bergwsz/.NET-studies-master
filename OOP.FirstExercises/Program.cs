@@ -21,13 +21,15 @@ namespace OOP.FirstExercises
             Console.Write("Name: ");
             A.Name = Console.ReadLine();
             Console.Write("Age: ");
-            A.Age = int.Parse(Console.ReadLine());
+            A.Age = int
+                .Parse(Console.ReadLine());
 
             Console.WriteLine("Second person data: ");
             Console.Write("Name: ");
             B.Name = Console.ReadLine();
             Console.Write("Age: ");
-            B.Age = int.Parse(Console.ReadLine());
+            B.Age = int
+                .Parse(Console.ReadLine());
 
             if (A.Age > B.Age)
                 Console.WriteLine($"Oldest person: {A.Name}");
@@ -43,13 +45,15 @@ namespace OOP.FirstExercises
             Console.Write("Name: ");
             A.Name = Console.ReadLine();
             Console.Write("Salary: ");
-            A.Salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            A.Salary = double
+                .Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("Second worker data: ");
             Console.Write("Name: ");
             B.Name = Console.ReadLine();
             Console.Write("Salary: ");
-            B.Salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            B.Salary = double
+                .Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double average_salary = (A.Salary + B.Salary) / 2;
             Console.WriteLine($"Average salary between them: {average_salary.ToString("F2", CultureInfo.InvariantCulture)}");
@@ -61,9 +65,12 @@ namespace OOP.FirstExercises
 
             Console.WriteLine("Input the first triangle especifications ");
 
-            X.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            X.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            X.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            X.A = double
+                .Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            X.B = double
+                .Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            X.C = double
+                .Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 
             Console.WriteLine("Input the second triangle especifications: ");
