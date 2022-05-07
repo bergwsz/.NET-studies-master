@@ -98,7 +98,31 @@ namespace OOP.FirstExercises
         }
         static void ProductDataExercise()
         {
+            ProductDataExercise p = new ProductDataExercise();
 
+            Console.WriteLine("Input the product data: ");
+            Console.WriteLine("");
+
+            Console.Write("Name: ");
+            p.Name = Console.ReadLine();
+            Console.Write("Price: ");
+            p.Price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Quantity: ");
+            p.Quantity = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine($"{p}");
+
+            Console.WriteLine("");
+            Console.Write($"How many {p.Name.ToLower()}s do you want to add to the storage? ");
+            int quantity = int.Parse(Console.ReadLine());
+            p.AddProductToStorage(quantity);
+            Console.WriteLine($"Updated data of product : {p}");
+
+            Console.WriteLine("");
+            Console.Write($"How many {p.Name.ToLower()}s do you want to remove from the storage? ");
+            quantity = int.Parse(Console.ReadLine());
+            p.RemoveProductFromStorage(quantity);
+            Console.WriteLine($"Updated data of product : {p}");
         }
     }
 }
