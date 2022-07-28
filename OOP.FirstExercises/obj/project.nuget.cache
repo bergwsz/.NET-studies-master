@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "R8q0bsfM7hy1qweoa9UH0+sbU+74mrQNBDag2S/UDki7cQTsPn97B9TBAknHDOdn3YuiXUywhPBrnIcoLF3sDw==",
+  "dgSpecHash": "YL0oSiX7uNhd8frbrh4jRhcmz9r0rpU4LLHQPy8yIkQyZTzZ1VoRtzT3hdM0Vm3w8IlLAycRqhGfKBuu7Mvp3Q==",
   "success": true,
-  "projectFilePath": "C:\\Visual Studio\\.NET-studies-master\\OOP.FirstExercises\\OOP.FirstExercises.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\.NET\\.NET-studies-master\\OOP.FirstExercises\\OOP.FirstExercises.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
